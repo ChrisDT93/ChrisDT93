@@ -105,7 +105,7 @@ I am a Full Stack Software Engineer who is passionate about finding ways to solv
 </div>
 
 ## Projects:
-<div style={"display": "flex"}>
+<div style={display: flex}>
    <div>
       <h4>Atelier FrontEnd</h4>
       <img alt="api-stress-test" src="https://github.com/ChrisDT93/ChrisDT93/blob/main/Images/Overview.png" width="200" height="auto" />
