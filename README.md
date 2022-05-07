@@ -105,14 +105,14 @@ I am a Full Stack Software Engineer who is passionate about finding ways to solv
 </div>
 
 ## Projects:
-<div style={display: flex}>
+<div>
    <div>
       <h4>Atelier FrontEnd</h4>
       <img alt="atelier-frontend" src="https://github.com/ChrisDT93/ChrisDT93/blob/main/Images/Overview.png" width="200" height="auto" />
       <img alt="atelier-frontend2" src="https://github.com/ChrisDT93/ChrisDT93/blob/main/Images/Q%26A.png" width="200" height="auto" />
       <img alt="atelier-frontend3" src="https://github.com/ChrisDT93/ChrisDT93/blob/main/Images/Q%26ASubmit.png" width="200" height="auto" />
-      <a href="https://github.com/rpp31-fec-bleu-cheese/project-atelier">Source Code</a>
    </div>
+   <a href="https://github.com/rpp31-fec-bleu-cheese/project-atelier">Source Code</a>
    <div>
       <h4>Atelier System Design</h4>
       <img alt="api-stress-test" src="https://github.com/ChrisDT93/ChrisDT93/blob/main/Images/Atelier%20System%20Design%20(API%20Stress%20Test).png" width="200" height="auto" />
