@@ -115,6 +115,8 @@ I am a Full Stack Software Engineer who is passionate about finding ways to solv
    <a href="https://github.com/rpp31-fec-bleu-cheese/project-atelier">Source Code</a>
    <div>
       Interactive e-commerce web application.
+   </div>
+   <div>
       Tech Stack: React, HTML, CSS, Node.js, Express, Webpack
    </div>
    <div>
@@ -123,10 +125,22 @@ I am a Full Stack Software Engineer who is passionate about finding ways to solv
    </div>
    <a href="https://github.com/rpp31-sdc-days-a-week/daysaweek-reviews">Source Code</a>
    <div>
+      Back-end microservice API for retail web-portal to optimize performance to handle production-level traffic.
+   </div>
+   <div>
+      Tech Stack: Node.js, Express, AWS EC2, PostgreSQL, Redis, NGNIX, Loader.io, K6
+   </div>
+   <div>
       <h4>Stream Finder</h4>
       <img alt="stream-finder" src="https://github.com/ChrisDT93/ChrisDT93/blob/main/Images/stream%20finder.gif" width="200" height="auto" />
    </div>
    <a href="https://github.com/rpp31-boc-clotho">Source Code</a>
+   <div>
+      Stream Finder, a guide for movies and tv-shows
+   </div>
+   <div>
+      Back-End Tech Stack: Node.js, Express, AWS EC2, MongoDB
+   </div>
 </div>
 
 ## 📊 GitHub Stats
