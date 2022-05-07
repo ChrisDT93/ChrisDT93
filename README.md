@@ -112,7 +112,7 @@ I am a Full Stack Software Engineer who is passionate about finding ways to solv
       <img alt="atelier-frontend2" src="https://github.com/ChrisDT93/ChrisDT93/blob/main/Images/Q%26A.png" width="200" height="auto" />
       <img alt="atelier-frontend3" src="https://github.com/ChrisDT93/ChrisDT93/blob/main/Images/Q%26ASubmit.png" width="200" height="auto" />
    </div>
-   <a href="https://github.com/rpp31-fec-bleu-cheese/project-atelier">Source Code</a>
+   <a href="https://github.com/rpp31-fec-bleu-cheese/project-atelier" target="_blank">Source Code</a>
    <div>
       Interactive e-commerce web application. I contributed to the question and answers component of the application.
    </div>
@@ -124,7 +124,7 @@ I am a Full Stack Software Engineer who is passionate about finding ways to solv
       <h4>Atelier System Design</h4>
       <img alt="api-stress-test" src="https://github.com/ChrisDT93/ChrisDT93/blob/main/Images/Atelier%20System%20Design%20(API%20Stress%20Test).png" width="200" height="auto" />
    </div>
-   <a href="https://github.com/rpp31-sdc-days-a-week/daysaweek-reviews">Source Code</a>
+   <a href="https://github.com/rpp31-sdc-days-a-week/daysaweek-reviews" target="_blank">Source Code</a>
    <div>
       Back-end microservice API for retail web-portal to optimize performance to handle production-level traffic. I contrbuted to the Reviews microservice API
    </div>
@@ -136,7 +136,7 @@ I am a Full Stack Software Engineer who is passionate about finding ways to solv
       <h4>Stream Finder</h4>
       <img alt="stream-finder" src="https://github.com/ChrisDT93/ChrisDT93/blob/main/Images/stream%20finder.gif" width="200" height="auto" />
    </div>
-   <a href="https://github.com/rpp31-boc-clotho">Source Code</a>
+   <a href="https://github.com/rpp31-boc-clotho" target="_blank">Source Code</a>
    <div>
       Stream Finder, a guide for movies and tv-shows. I contributed to the backend of this project
    </div>
