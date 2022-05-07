@@ -108,7 +108,9 @@ I am a Full Stack Software Engineer who is passionate about finding ways to solv
 <div style={display: flex}>
    <div>
       <h4>Atelier FrontEnd</h4>
-      <img alt="api-stress-test" src="https://github.com/ChrisDT93/ChrisDT93/blob/main/Images/Overview.png" width="200" height="auto" />
+      <img alt="atelier-frontend" src="https://github.com/ChrisDT93/ChrisDT93/blob/main/Images/Overview.png" width="200" height="auto" />
+      <img alt="atelier-frontend2" src="https://github.com/ChrisDT93/ChrisDT93/blob/main/Images/Q%26A.png" width="200" height="auto" />
+      <img alt="atelier-frontend3" src="https://github.com/ChrisDT93/ChrisDT93/blob/main/Images/Q%26ASubmit.png" width="200" height="auto" />
       <a href="https://github.com/rpp31-fec-bleu-cheese/project-atelier">Source Code</a>
    </div>
    <div>
@@ -118,7 +120,7 @@ I am a Full Stack Software Engineer who is passionate about finding ways to solv
    </div>
    <div>
       <h4>Stream Finder</h4>
-      <img alt="api-stress-test" src="https://github.com/ChrisDT93/ChrisDT93/blob/main/Images/stream%20finder.gif" width="200" height="auto" />
+      <img alt="stream-finder" src="https://github.com/ChrisDT93/ChrisDT93/blob/main/Images/stream%20finder.gif" width="200" height="auto" />
       <a href="https://github.com/rpp31-boc-clotho">Source Code</a>
    </div>
    
