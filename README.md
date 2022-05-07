@@ -106,8 +106,14 @@ I am a Full Stack Software Engineer who is passionate about finding ways to solv
 
 ## Projects:
 <div>
-   <img alt="api-stress-test" src="https://github.com/ChrisDT93/ChrisDT93/blob/main/Images/Overview.png" width="200" height="auto" />
-   <img alt="api-stress-test" src="https://github.com/ChrisDT93/ChrisDT93/blob/main/Images/Atelier%20System%20Design%20(API%20Stress%20Test).png" width="200" height="auto" />
+   <div>
+      <h2>Atelier FrontEnd</h2>
+      <img alt="api-stress-test" src="https://github.com/ChrisDT93/ChrisDT93/blob/main/Images/Overview.png" width="200" height="auto" />
+   </div>
+   <div>
+      <img alt="api-stress-test" src="https://github.com/ChrisDT93/ChrisDT93/blob/main/Images/Atelier%20System%20Design%20(API%20Stress%20Test).png" width="200" height="auto" />
+   </div>
+   
 </div>
 
 ## 📊 GitHub Stats
