@@ -105,7 +105,7 @@ I am a Full Stack Software Engineer who is passionate about finding ways to solv
 </div>
 
 ## Projects:
-![logo](Q&A.png "Atelier FrontEnd")
+![logo](images/Q&A.png "Atelier FrontEnd")
 
 ## 📊 GitHub Stats
 <img alt="GitHub Profile Stats" src="https://github-readme-stats.vercel.app/api?username=ChrisDT93&show_private=true&show_icons=true&theme=tokyonight" />
