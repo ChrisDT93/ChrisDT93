@@ -114,7 +114,7 @@ I am a Full Stack Software Engineer who is passionate about finding ways to solv
    </div>
    <a href="https://github.com/rpp31-fec-bleu-cheese/project-atelier">Source Code</a>
    <div>
-      Interactive e-commerce web application.
+      Interactive e-commerce web application. I contributed to the question and answers component of the application.
    </div>
    <div>
       Tech Stack: React, HTML, CSS, Node.js, Express, Webpack
@@ -125,7 +125,7 @@ I am a Full Stack Software Engineer who is passionate about finding ways to solv
    </div>
    <a href="https://github.com/rpp31-sdc-days-a-week/daysaweek-reviews">Source Code</a>
    <div>
-      Back-end microservice API for retail web-portal to optimize performance to handle production-level traffic.
+      Back-end microservice API for retail web-portal to optimize performance to handle production-level traffic. I contrbuted to the Reviews microservice API
    </div>
    <div>
       Tech Stack: Node.js, Express, AWS EC2, PostgreSQL, Redis, NGNIX, Loader.io, K6
@@ -136,7 +136,7 @@ I am a Full Stack Software Engineer who is passionate about finding ways to solv
    </div>
    <a href="https://github.com/rpp31-boc-clotho">Source Code</a>
    <div>
-      Stream Finder, a guide for movies and tv-shows
+      Stream Finder, a guide for movies and tv-shows. I contributed to the backend of this project
    </div>
    <div>
       Back-End Tech Stack: Node.js, Express, AWS EC2, MongoDB
