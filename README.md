@@ -112,12 +112,14 @@ I am a Full Stack Software Engineer who is passionate about finding ways to solv
       <a href="https://github.com/rpp31-fec-bleu-cheese/project-atelier">Source Code</a>
    </div>
    <div>
-      <h4>Atelier BackEnd</h4>
+      <h4>Atelier System Design</h4>
       <img alt="api-stress-test" src="https://github.com/ChrisDT93/ChrisDT93/blob/main/Images/Atelier%20System%20Design%20(API%20Stress%20Test).png" width="200" height="auto" />
+      <a href="https://github.com/rpp31-sdc-days-a-week/daysaweek-reviews">Source Code</a>
    </div>
    <div>
       <h4>Stream Finder</h4>
       <img alt="api-stress-test" src="https://github.com/ChrisDT93/ChrisDT93/blob/main/Images/stream%20finder.gif" width="200" height="auto" />
+      <a href="https://github.com/rpp31-boc-clotho">Source Code</a>
    </div>
    
 </div>
