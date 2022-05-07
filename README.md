@@ -119,6 +119,7 @@ I am a Full Stack Software Engineer who is passionate about finding ways to solv
    <div>
       Tech Stack: React, HTML, CSS, Node.js, Express, Webpack
    </div>
+   <hr>
    <div>
       <h4>Atelier System Design</h4>
       <img alt="api-stress-test" src="https://github.com/ChrisDT93/ChrisDT93/blob/main/Images/Atelier%20System%20Design%20(API%20Stress%20Test).png" width="200" height="auto" />
@@ -130,6 +131,7 @@ I am a Full Stack Software Engineer who is passionate about finding ways to solv
    <div>
       Tech Stack: Node.js, Express, AWS EC2, PostgreSQL, Redis, NGNIX, Loader.io, K6
    </div>
+   <hr>
    <div>
       <h4>Stream Finder</h4>
       <img alt="stream-finder" src="https://github.com/ChrisDT93/ChrisDT93/blob/main/Images/stream%20finder.gif" width="200" height="auto" />
