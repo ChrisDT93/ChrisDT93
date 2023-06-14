@@ -144,6 +144,3 @@ I am a Full Stack Software Engineer who is passionate about finding ways to solv
       Back-End Tech Stack: Node.js, Express, AWS EC2, MongoDB
    </div>
 </div>
-
-## 📊 GitHub Stats
-<img alt="GitHub Profile Stats" src="https://github-readme-stats.vercel.app/api?username=ChrisDT93&show_private=true&show_icons=true&theme=tokyonight" />
